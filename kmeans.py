@@ -8,6 +8,11 @@ from math import sqrt
 from matplotlib import pyplot as plt
 import copy
 
+'''
+    Implemented by:
+    João Chervinski - 2018
+'''
+
 plt.ion()
 
 def initialize_dataset(filename):
